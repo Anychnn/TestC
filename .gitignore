@@ -1,0 +1,8 @@
+/test_resources/
+/zlib/
+/zipper/
+/minizip/
+/lib/
+/cmake-build-debug/
+!/lib/
+/test_tesources
